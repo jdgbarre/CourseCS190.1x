@@ -1,4 +1,2 @@
-# LabsCS190.1x
-# LabsCS190.1x
-# LabsCS190.1x
-# LabsCS190.1x
+# edX - "Scalable Machine Learning"
+## Final grade: 86%
